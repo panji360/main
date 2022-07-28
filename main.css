@@ -244,14 +244,9 @@ a:focus-visible {
 	margin: 0;
 }
 
-.cover__title sup {
-	font-size: 4vw;
-	font-weight: bold;
-	vertical-align: 75%;
-}
 
 .cover__subtitle {
-	font-size: 3rem;
+	font-size: 3vw;
 	font-weight: 400;
 	margin: 4;
 }
@@ -274,7 +269,8 @@ a:focus-visible {
 }
 
 .footer p {
-	max-width: 70ch;
+	max-width: 70%;
+	max-height: 80%;
 	text-align: justify;
   	text-justify: inter-word;
 }
