@@ -193,6 +193,7 @@ a:focus-visible {
 .frame__prev {
 	grid-area: prev;
 	justify-self: start;
+	margin: 1vh 1vh;
 }
 
 .frame__navs-title {
@@ -284,14 +285,14 @@ a:focus-visible {
 	}
 	.frame__navs {
 		justify-self: end;
-		margin: 1rem 1rem;
+		margin: 1vh 1vh;
 		white-space: nowrap;
 	}
 	.frame__nav--current::after {
 		content: '';
 		position: absolute;
-		bottom: 160%;
-		height: 150%;
+		bottom: 140%;
+		height: 130%;
 		width: 1px;
 		left: 50%;
 		background: currentColor;
