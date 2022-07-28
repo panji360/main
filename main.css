@@ -239,7 +239,7 @@ a:focus-visible {
 
 .cover__title {
 	font-family: novecento-sans-wide, sans-serif;
-	font-size: 6vw;
+	font-size: 7vw;
 	font-weight: 600;
 	margin: 0;
 }
@@ -251,9 +251,9 @@ a:focus-visible {
 }
 
 .cover__subtitle {
-	font-size: 2rem;
+	font-size: 3rem;
 	font-weight: 400;
-	margin: 5;
+	margin: 4;
 }
 
 
