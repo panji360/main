@@ -34,6 +34,7 @@ html {
 .titlepage {
 	--color-text: #b4176e;
     --color-text-alt: #000000;
+	--color-text-title: #c6c1b7;
     --color-bg: #101010;
     --color-bg-alt: #c6c1b7;
     --color-link-hover: #b4176e;
@@ -242,6 +243,7 @@ a:focus-visible {
 	font-family: novecento-sans-wide, sans-serif;
 	font-size: 7vw;
 	font-weight: 600;
+	color: var(--color-text-title);
 	margin: 0;
 }
 
@@ -249,6 +251,7 @@ a:focus-visible {
 .cover__subtitle {
 	font-size: 3vw;
 	font-weight: 400;
+	color: var(--color-text-title);
 	margin: 4;
 }
 
