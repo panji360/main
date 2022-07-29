@@ -281,7 +281,7 @@ a:focus-visible {
 		height: 100vh;
 		grid-template-columns: auto 1fr;
 		grid-template-rows: auto 1fr auto;
-		grid-template-areas: 'prev navs' '... title' '... ...';
+		grid-template-areas: 'prev navs' 'title ...' '... ...';
 	}
 	.frame__navs {
 		justify-self: end;
