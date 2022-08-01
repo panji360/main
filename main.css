@@ -193,19 +193,21 @@ a:focus-visible {
 }
 
 .cover__title {
-	font-family: novecento-sans-wide, sans-serif;
+	font-family: 'Cinzel Decorative', cursive;
 	font-size: 7vw;
 	font-weight: 600;
+	letter-spacing: 2px;
 	color: var(--color-text-title);
 	margin: 0;
 }
 
 
 .cover__subtitle {
+	font-family: novecento-sans-wide, sans-serif;
 	font-size: 3vw;
 	font-weight: 400;
 	color: var(--color-text-title);
-	margin: 4;
+	margin: 0;
 }
 
 
