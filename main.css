@@ -305,4 +305,10 @@ a:focus-visible {
 	}
 }
 
+@media screen and (max-width: 53em) {
+	.grid {
+		height: 100vh;
+	}
+}
+
 /*# sourceMappingURL=main.css.map*/
